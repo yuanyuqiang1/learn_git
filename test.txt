@@ -2,3 +2,4 @@ hhhhhh
 KKKKKKKKKKKKKKKKKKKKKKK
 iiiiiiiiii
 use stash
+user2 add
